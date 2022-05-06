@@ -15,3 +15,9 @@ Features:
  - Randomizes all 10 themes attached to each world
  - Randomizes all of the sound effects for every object and action
  - Randomizes all of the object models
+ 
+Screenshots:
+-----
+
+![Screenshot 1](https://raw.githubusercontent.com/SaturnKai/Randomizer/main/.screenshots/Screenshot%201.png)
+![Screenshot 2](https://raw.githubusercontent.com/SaturnKai/Randomizer/main/.screenshots/Screenshot%202.png)
