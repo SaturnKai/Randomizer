@@ -1,0 +1,71 @@
+{
+    "models": {
+        "balls": [
+            { "offset": "3C", "models": [{ "offset": "40" }, { "offset": "44" }] },
+            { "offset": "4C", "models": [{ "offset": "50" }, { "offset": "54" }] },
+            { "offset": "5C", "models": [{ "offset": "60" }, { "offset": "64" }] },
+            { "offset": "6C", "models": [{ "offset": "70" }, { "offset": "74" }] },
+            { "offset": "7C", "models": [{ "offset": "80" }, { "offset": "84" }] },
+            { "offset": "8C", "models": [{ "offset": "90" }, { "offset": "94" }] },
+            { "offset": "9C", "models": [{ "offset": "A0" }, { "offset": "A4" }] },
+            { "offset": "AC", "models": [{ "offset": "B0" }, { "offset": "B4" }] },
+            { "offset": "BC", "models": [{ "offset": "C0" }, { "offset": "C4" }] },
+            { "offset": "CC", "models": [{ "offset": "D0" }, { "offset": "D4" }] },
+            { "offset": "DC", "models": [{ "offset": "E0" }, { "offset": "E4" }] },
+            { "offset": "EC", "models": [{ "offset": "F0" }, { "offset": "F4" }] },
+            { "offset": "FC", "models": [{ "offset": "100" }, { "offset": "104" }] },
+            { "offset": "10C", "models": [{ "offset": "110" }, { "offset": "114" }] }
+        ],
+        "enemies": [
+            { "offset": "17C", "models": [{ "offset": "180" }, { "offset": "184" }] },
+            { "offset": "18C", "models": [{ "offset": "190" }, { "offset": "194" }] },
+            { "offset": "19C", "models": [{ "offset": "1A0" }, { "offset": "1A4" }] },
+            { "offset": "1AC", "models": [{ "offset": "1B0" }, { "offset": "1B4" }] },
+            { "offset": "1BC", "models": [{ "offset": "1C0" }, { "offset": "1C4" }] }
+        ],
+        "objects": [
+            { "offset": "30C", "models": [{ "offset": "31C" }, { "offset": "32C" }] },
+            { "offset": "310", "models": [{ "offset": "320" }, { "offset": "330" }] },
+            { "offset": "314", "models": [{ "offset": "324" }, { "offset": "334" }] },
+            { "offset": "318", "models": [{ "offset": "328" }, { "offset": "338" }] },
+
+            { "offset": "38C", "models": [{ "offset": "39C" }, { "offset": "3AC" }] },
+            { "offset": "390", "models": [{ "offset": "3A0" }, { "offset": "3B0" }] },
+
+            { "offset": "40C", "models": [{ "offset": "41C" }, { "offset": "42C" }] },
+            { "offset": "410", "models": [{ "offset": "420" }, { "offset": "430" }] },
+            { "offset": "414", "models": [{ "offset": "424" }, { "offset": "434" }] },
+            { "offset": "418", "models": [{ "offset": "428" }, { "offset": "438" }] },
+
+            { "offset": "44C", "models": [{ "offset": "45C" }, { "offset": "46C" }] },
+            { "offset": "4CC", "models": [{ "offset": "4DC" }, { "offset": "4EC" }] },
+            { "offset": "84C", "models": [{ "offset": "85C" }, { "offset": "86C" }] },
+            { "offset": "88C", "models": [{ "offset": "89C" }, { "offset": "8AC" }] },
+            { "offset": "8CC", "models": [{ "offset": "8DC" }, { "offset": "8EC" }] },
+            { "offset": "98C", "models": [{ "offset": "99C" }, { "offset": "9AC" }] },
+            { "offset": "9CC", "models": [{ "offset": "9DC" }, { "offset": "9EC" }] },
+            { "offset": "A0C", "models": [{ "offset": "A1C" }, { "offset": "A2C" }] },
+            { "offset": "A4C", "models": [{ "offset": "A5C" }, { "offset": "A6C" }] },
+            { "offset": "A8C", "models": [{ "offset": "A9C" }, { "offset": "AAC" }] },
+
+            { "offset": "ACC", "models": [{ "offset": "ADC" }, { "offset": "AEC" }] },
+            { "offset": "AD0", "models": [{ "offset": "AE0" }, { "offset": "AF0" }] },
+            { "offset": "AD4", "models": [{ "offset": "AE4" }, { "offset": "AF4" }] },
+
+            { "offset": "B0C", "models": [{ "offset": "B1C" }, { "offset": "B2C" }] },
+            { "offset": "B10", "models": [{ "offset": "B20" }, { "offset": "B30" }] },
+            { "offset": "B14", "models": [{ "offset": "B24" }, { "offset": "B34" }] },
+
+            { "offset": "B4C", "models": [{ "offset": "B5C" }, { "offset": "B6C" }] },
+
+            { "offset": "C4C", "models": [{ "offset": "C5C" }, { "offset": "C6C" }] },
+            { "offset": "C50", "models": [{ "offset": "C60" }, { "offset": "C70" }] },
+
+            { "offset": "C8C", "models": [{ "offset": "C9C" }, { "offset": "CAC" }] },
+            { "offset": "CCC", "models": [{ "offset": "CDC" }, { "offset": "CEC" }] },
+            { "offset": "D0C", "models": [{ "offset": "D1C" }, { "offset": "D2C" }] },
+            { "offset": "D4C", "models": [{ "offset": "D5C" }, { "offset": "D6C" }] },
+            { "offset": "D8C", "models": [{ "offset": "D9C" }, { "offset": "DAC" }] }
+        ]
+    }
+}
