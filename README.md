@@ -23,6 +23,9 @@ randomized settings as someone else, you can simply give them your seed and the 
 the game will be in a fresh state again before randomizing.
 10. Build the game's files from the original directory into a playable image and launch it into an emulator.
 
+If you need help building the game files, you can use Murphy's steps on creating one. His tutorial contains extra steps for building
+as demo, but it's relatively the same. https://www.youtube.com/watch?v=oKWkVYqCu7U
+
 Features:
 ------
 
