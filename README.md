@@ -11,6 +11,8 @@ Download Instructions:
 Program Instructions:
 -----
 
+Quick video tutorial: https://www.youtube.com/watch?v=ebwn7yB1bUc
+
 1. Extract the game's files into a folder.
 2. Create a copy of the folder containing the extracted game files. This will serve as a backup.
 3. Launch the randomizer tool and click "Select Base Directory".
