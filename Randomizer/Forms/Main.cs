@@ -60,6 +60,8 @@ namespace Randomizer
                 MessageBox.Show("Please Select the Game Directory!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             else if (SeedInput.Text == "")
                 MessageBox.Show("Please Enter in a Seed!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else if (Options.CheckedItems.Count < 1)
+                MessageBox.Show("Please Check an Option to Randomize!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             else
             {
                 uint seed = 0;
