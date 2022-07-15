@@ -51,7 +51,7 @@
             "Models"});
             this.Options.Location = new System.Drawing.Point(12, 12);
             this.Options.Name = "Options";
-            this.Options.Size = new System.Drawing.Size(120, 214);
+            this.Options.Size = new System.Drawing.Size(120, 212);
             this.Options.TabIndex = 0;
             // 
             // SelectBase
